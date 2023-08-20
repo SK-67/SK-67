@@ -1,21 +1,3 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1138933747467690085/1138974244689166417/solarbear_logo.png" width="300"/>
-  <div id="badges">
-    <a href="https://solarbear.tebex.io/">
-      <img src="https://img.shields.io/badge/Tebex%20Scripts-blue?style=for-the-badge&logo=Telegraph&logoColor=white" alt="Tebex Badge"/>
-    </a>
-    <a href="https://solarbear-development.gitbook.io/docs/">
-      <img src="https://img.shields.io/badge/GitBook-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Tebex Badge"/>
-    </a>
-    <a href="https://discord.gg/WAcffCew3W">
-      <img src="https://img.shields.io/discord/1137868987418546216?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-    </a>
-  </div>
-    <a href="https://github.com/SK-67">
-      <img src="https://komarev.com/ghpvc/?username=SK-67&style=flat-square&color=blue" alt=""/>
-    </a>
-</div>
-
 ---
 
 <div align="center">
